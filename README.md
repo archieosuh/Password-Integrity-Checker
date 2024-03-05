@@ -11,9 +11,9 @@ Presence of numbers
 Presence of special characters
 
 # Criteria for a Secure Password
-Length: Password length should be at least 8 characters.
-The presence of different character types: Uppercase letters, lowercase letters, numbers, and special characters contribute to the password's strength.
-The script checks if the entered password is among the most common passwords and advises the user to choose a different one if it is.
+1. Length: Password length should be at least 8 characters.
+2. The presence of different character types: Uppercase letters, lowercase letters, numbers, and special characters contribute to the password's strength.
+3. The script checks if the entered password is among the most common passwords and advises the user to choose a different one if it is.
 
 # Usage
 Clone or download the Python script password_checker.py.
