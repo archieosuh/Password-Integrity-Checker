@@ -26,4 +26,5 @@ This script utilizes the string module to check for character types in the passw
 It reads a list of 10,000 most commonly used passwords from a text file to compare against the entered password.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT license.
+
